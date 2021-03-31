@@ -1,0 +1,20 @@
+.btn {
+    width: 40px;
+    height: 40px;
+    margin: 5px;
+    background-color: white;
+    border: 1px solid;
+}
+
+.btn--operator {
+    border: 1px solid #FD8706;
+}
+
+.btn--primary {
+    background-color: #C1C1C1;
+}
+
+.btn--large {
+    background-color: #FD8706;
+    width: 90px;
+}
